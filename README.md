@@ -118,7 +118,7 @@ The EEG data is **not included in this repository** and must be downloaded separ
 5. Update the `subject_folder` variable at the top of the notebook to point to your local path:
 
 ```python
-subject_folder = r"/your/local/path/S007"
+subject_folder = r"/your/local/path/to/subject/folder"
 ```
 
 ### 3. Run the notebook
